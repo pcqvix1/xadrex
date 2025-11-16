@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Chess",
+  "description": "A classic chess game where you can challenge the Gemini AI. Select your difficulty level and test your strategic skills against a powerful opponent. The game features a clean interface, move validation, and implements all standard chess rules.",
+  "requestFramePermissions": []
+}
